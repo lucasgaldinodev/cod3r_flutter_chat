@@ -19,7 +19,7 @@ class AuthFormData {
     return _mode == AuthMode.Signup;
   }
 
-  void toggleMode() {
+  void toggleAuthMode() {
     _mode = isLogin ? AuthMode.Signup : AuthMode.Login;
   }
 }
