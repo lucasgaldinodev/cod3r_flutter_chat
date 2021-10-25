@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219911736993",
+    "project_id": "cod3r-chat-239fe",
+    "storage_bucket": "cod3r-chat-239fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219911736993:android:cfab5ce3ac2f89f7562ae0",
+        "android_client_info": {
+          "package_name": "br.com.cod3r.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219911736993-6h1qqkh9a6qmqlmt5aue88u04qcjas23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBME1Jm8hJwl1oi8TMoqXfsC4eAxrH8w1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219911736993-6h1qqkh9a6qmqlmt5aue88u04qcjas23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
